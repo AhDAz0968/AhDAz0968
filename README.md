@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Kakada 👋
 
-<!--
-**AhDAz0968/AhDAz0968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student from Cambodia, and passionate about building software. I enjoy building projects, learning new technologies, and improving my problem-solving skills.
 
-Here are some ideas to get you started:
+## Skills
+- C • C++ • Python • Java • JavaScript
+- HTML • CSS • Tailwind CSS • Bootstrap • React
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Structures & Algorithms
+- Database Design
+- Web Development
+- AI & Machine Learning
+
+## Projects
+Check out my repositories to see what I've been building.
+
+## Contact
+- GitHub: https://github.com/AhDAz0968
+
+Always building, always learning.
