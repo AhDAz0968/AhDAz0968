@@ -6,6 +6,7 @@ Computer Science student from Cambodia, and passionate about building software. 
 - C • C++ • Python • Java • JavaScript
 - HTML • CSS • Tailwind CSS • Bootstrap • React
 - Git & GitHub
+- Designing Tool: Figma
 
 ## Currently Learning
 - Data Structures & Algorithms
